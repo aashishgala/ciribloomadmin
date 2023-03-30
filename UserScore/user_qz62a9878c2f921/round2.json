@@ -1,0 +1,49 @@
+
+    {
+        "databaseId" : "2",
+        "que_numb" : "1",
+        "correcAns" : "Any of these",
+        "userAns" : "Any of these"
+    },
+    {
+        "databaseId" : "3",
+        "que_numb" : "2",
+        "correcAns" : "All of these",
+        "userAns" : "Contrast"
+    },
+    {
+        "databaseId" : "7",
+        "que_numb" : "3",
+        "correcAns" : "Crop Marks",
+        "userAns" : "Color Bars"
+    },
+    {
+        "databaseId" : "11",
+        "que_numb" : "4",
+        "correcAns" : "composition",
+        "userAns" : "harmony"
+    },
+    {
+        "databaseId" : "12",
+        "que_numb" : "5",
+        "correcAns" : "texture",
+        "userAns" : "unity"
+    },
+    {
+        "databaseId" : "13",
+        "que_numb" : "6",
+        "correcAns" : "height and width",
+        "userAns" : "none of the above"
+    },
+    {
+        "databaseId" : "15",
+        "que_numb" : "7",
+        "correcAns" : "solidity or mass",
+        "userAns" : "extension in any direction"
+    },
+    {
+        "databaseId" : "21",
+        "que_numb" : "8",
+        "correcAns" : "Art that is focused solely on imaginative artistic or intellectual content",
+        "userAns" : "Fine tuned art that is appreciated for its investment value"
+    },

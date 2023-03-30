@@ -1,0 +1,50 @@
+<!-- https://www.viralpatel.net/disable-back-button-browser-javascript/ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Compeleted</title>
+    <link rel="stylesheet" href="css/qstyle.css">
+    <link src="font-awesome/css/font-awesome.css" rel="stylesheet">
+</head>
+<body onload="noBack();" onpageshow="if (event.persisted) noBack();" onunload="">
+
+    <body>
+        <!-- start Quiz button -->
+        <div class='parent'>
+            <h4 style="text-align: center;">Congratulations You have Compeleted Your quiz.</h4>
+        </div>
+    </body>
+    <script type = "text/javascript" >
+        window.onload = function () {
+        window.location.href += "#";
+        setTimeout("changeHashAgain()", "50");
+        }
+
+       function changeHashAgain() {
+       window.location.href += "1";
+       }
+
+       var storedHash = window.location.hash;
+      
+        window.setInterval(function () {
+            window.history.forward();
+            if (window.location.hash != storedHash) {
+                window.location.hash = storedHash;
+        }
+       }, 50);
+
+       window.history.forward();
+	function noBack() { window.history.forward(); }
+   </script>
+
+<script type = "text/javascript" >  
+window.location.href='https://www.ciribloom.co.uk';
+    function preventBack() { window.history.forward();}  
+    setTimeout("preventBack()", 0);  
+    window.onunload = function () { null };  
+</script> 
+</body>
+</html>

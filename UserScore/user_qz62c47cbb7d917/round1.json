@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "41",
+        "que_numb" : "1",
+        "correcAns" : "All of the above",
+        "userAns" : "Understands the relationship between ones emotions thoughts values and behaviors"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "2",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "the artist who scripted the books"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "3",
+        "correcAns" : "humanism",
+        "userAns" : "fascism"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "4",
+        "correcAns" : "cubism",
+        "userAns" : "abstract"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "5",
+        "correcAns" : "abstract",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "6",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "wondering as you read"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "7",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Pepper"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "8",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Blocks"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "9",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Movable machines"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "10",
+        "correcAns" : "Philosophy ",
+        "userAns" : "Maths"
+    }
+]

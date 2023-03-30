@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "39",
+        "que_numb" : "1",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Movable type Printing Press"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "2",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Pepper"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "3",
+        "correcAns" : "realism",
+        "userAns" : "impressionism"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "4",
+        "correcAns" : "abstract",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "5",
+        "correcAns" : "all of the above",
+        "userAns" : "Maths"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "6",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Paintings on rocks"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "7",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking about your thinking"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "8",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "a room devoted to the handlettered copying of manuscripts"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "9",
+        "correcAns" : "Understands the relationship between ones emotions thoughts values and behaviors",
+        "userAns" : "Identifies ones emotions and how they affect others"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "10",
+        "correcAns" : "humanism",
+        "userAns" : "groupism"
+    }
+]

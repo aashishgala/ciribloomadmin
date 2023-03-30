@@ -1,0 +1,213 @@
+[
+
+    {
+        "databaseId" : "4",
+        "que_numb" : "1",
+        "correcAns" : "Symbol",
+        "userAns" : "Muppet"
+    },
+    {
+        "databaseId" : "9",
+        "que_numb" : "2",
+        "correcAns" : "pattern",
+        "userAns" : "variety"
+    },
+    {
+        "databaseId" : "11",
+        "que_numb" : "3",
+        "correcAns" : "composition",
+        "userAns" : "contrast"
+    },
+    {
+        "databaseId" : "13",
+        "que_numb" : "4",
+        "correcAns" : "height width and depth",
+        "userAns" : "height and width"
+    },
+    {
+        "databaseId" : "14",
+        "que_numb" : "5",
+        "correcAns" : "size",
+        "userAns" : "mass"
+    },
+    {
+        "databaseId" : "15",
+        "que_numb" : "6",
+        "correcAns" : "solidity or mass",
+        "userAns" : "solidity or mass"
+    },
+    {
+        "databaseId" : "17",
+        "que_numb" : "7",
+        "correcAns" : "positive space",
+        "userAns" : "form"
+    },
+    {
+        "databaseId" : "19",
+        "que_numb" : "8",
+        "correcAns" : "Chromosteriopsis",
+        "userAns" : "Chromosteriopsis"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "35 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "x height"
+    },
+    {
+        "databaseId" : "24",
+        "que_numb" : "11",
+        "correcAns" : "78 contiguous nib widths",
+        "userAns" : "56 contiguous nib widths"
+    },
+    {
+        "databaseId" : "25",
+        "que_numb" : "12",
+        "correcAns" : "Letter f",
+        "userAns" : "Letter k"
+    },
+    {
+        "databaseId" : "26",
+        "que_numb" : "13",
+        "correcAns" : "orange",
+        "userAns" : "orange"
+    },
+    {
+        "databaseId" : "27",
+        "que_numb" : "14",
+        "correcAns" : "Red",
+        "userAns" : "Black"
+    },
+    {
+        "databaseId" : "28",
+        "que_numb" : "15",
+        "correcAns" : "Shade",
+        "userAns" : "Tone"
+    },
+    {
+        "databaseId" : "29",
+        "que_numb" : "16",
+        "correcAns" : "pleasing arrangements of color",
+        "userAns" : "none of the above"
+    },
+    {
+        "databaseId" : "30",
+        "que_numb" : "17",
+        "correcAns" : "intensity",
+        "userAns" : "hue"
+    },
+    {
+        "databaseId" : "31",
+        "que_numb" : "18",
+        "correcAns" : "tone",
+        "userAns" : "contrast"
+    },
+    {
+        "databaseId" : "32",
+        "que_numb" : "19",
+        "correcAns" : "monochromatic Scheme",
+        "userAns" : "monolithic Scheme"
+    },
+    {
+        "databaseId" : "42",
+        "que_numb" : "20",
+        "correcAns" : "foreground",
+        "userAns" : "foreground"
+    },
+    {
+        "databaseId" : "43",
+        "que_numb" : "21",
+        "correcAns" : "balance",
+        "userAns" : "rhythm"
+    },
+    {
+        "databaseId" : "45",
+        "que_numb" : "22",
+        "correcAns" : "1125",
+        "userAns" : "1325"
+    },
+    {
+        "databaseId" : "48",
+        "que_numb" : "23",
+        "correcAns" : " Highlights",
+        "userAns" : " Midtones"
+    },
+    {
+        "databaseId" : "55",
+        "que_numb" : "24",
+        "correcAns" : "The round inside part of letters like b d o etc",
+        "userAns" : "The inside of the letter G"
+    },
+    {
+        "databaseId" : "56",
+        "que_numb" : "25",
+        "correcAns" : "Normally those typefaces which slant to the right",
+        "userAns" : "Normally those typefaces which are designed by Italian Typographers "
+    },
+    {
+        "databaseId" : "62",
+        "que_numb" : "26",
+        "correcAns" : "The mean height of lowercase letters excluding ascenders and descenders",
+        "userAns" : "The mean height of lowercase letters excluding ascenders and descenders"
+    },
+    {
+        "databaseId" : "64",
+        "que_numb" : "27",
+        "correcAns" : "Lines of type set without any additional interline spacing",
+        "userAns" : "Lines of type set without any additional interline spacing"
+    },
+    {
+        "databaseId" : "66",
+        "que_numb" : "28",
+        "correcAns" : "Largesized initial letter",
+        "userAns" : "A missing letter from a word "
+    },
+    {
+        "databaseId" : "68",
+        "que_numb" : "29",
+        "correcAns" : "The parts of some lowercase letters which rise above xheight",
+        "userAns" : "The letters appear in the heading or title of the book"
+    },
+    {
+        "databaseId" : "71",
+        "que_numb" : "30",
+        "correcAns" : "Hyper Text Markup Language",
+        "userAns" : "Heuristic Transfer Markedup Linguistics"
+    },
+    {
+        "databaseId" : "73",
+        "que_numb" : "31",
+        "correcAns" : "Illustrator",
+        "userAns" : "Photoshop"
+    },
+    {
+        "databaseId" : "74",
+        "que_numb" : "32",
+        "correcAns" : "72 points per inch",
+        "userAns" : "72 points per inch"
+    },
+    {
+        "databaseId" : "78",
+        "que_numb" : "33",
+        "correcAns" : "Raster",
+        "userAns" : "GIFs"
+    },
+    {
+        "databaseId" : "79",
+        "que_numb" : "34",
+        "correcAns" : "the quality of an interaction element such as a button that tells the users how to use it",
+        "userAns" : "Based on the price of the device and relative price of the app subscription that makes the app viable for users"
+    },
+    {
+        "databaseId" : "83",
+        "que_numb" : "35",
+        "correcAns" : "Cascading Style Sheets",
+        "userAns" : "Consortium of System Structures"
+    }
+]

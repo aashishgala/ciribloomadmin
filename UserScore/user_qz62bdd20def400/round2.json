@@ -1,0 +1,61 @@
+
+    {
+        "databaseId" : "2",
+        "que_numb" : "1",
+        "correcAns" : "Any of these",
+        "userAns" : "Repeat a color shape or texture in different areas throughout"
+    },
+    {
+        "databaseId" : "8",
+        "que_numb" : "2",
+        "correcAns" : "movement of action",
+        "userAns" : "landscapes"
+    },
+    {
+        "databaseId" : "10",
+        "que_numb" : "3",
+        "correcAns" : "content",
+        "userAns" : "content"
+    },
+    {
+        "databaseId" : "11",
+        "que_numb" : "4",
+        "correcAns" : "composition",
+        "userAns" : "composition"
+    },
+    {
+        "databaseId" : "15",
+        "que_numb" : "5",
+        "correcAns" : "solidity or mass",
+        "userAns" : "solidity or mass"
+    },
+    {
+        "databaseId" : "19",
+        "que_numb" : "6",
+        "correcAns" : "Chromosteriopsis",
+        "userAns" : "RYB Primaries"
+    },
+    {
+        "databaseId" : "20",
+        "que_numb" : "7",
+        "correcAns" : "Paper Prototype",
+        "userAns" : "Rapid Prototype"
+    },
+    {
+        "databaseId" : "21",
+        "que_numb" : "8",
+        "correcAns" : "Art that is focused solely on imaginative artistic or intellectual content",
+        "userAns" : "Art that is focused solely on imaginative artistic or intellectual content"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "25 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "y length"
+    },

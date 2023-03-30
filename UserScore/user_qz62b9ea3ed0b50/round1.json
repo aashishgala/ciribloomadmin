@@ -1,0 +1,33 @@
+[
+
+    {
+        "databaseId" : "33",
+        "que_numb" : "1",
+        "correcAns" : "abstract",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "3",
+        "correcAns" : "Philosophy ",
+        "userAns" : "Maths"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "4",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking about your thinking"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "9",
+        "correcAns" : "cubism",
+        "userAns" : "impressionism"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "10",
+        "correcAns" : "humanism",
+        "userAns" : "groupism"
+    }
+]

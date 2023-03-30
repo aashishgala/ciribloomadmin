@@ -1,0 +1,16 @@
+{
+    "area": [
+        "1 RK",
+        "1 BHK",
+        "2 BHK",
+        "3 BHK"
+    ],
+    "type": [
+        "Apartment",
+        "Builder Floor",
+        "Villa",
+        "Residential Plot",
+        "Independent House",
+        "Studio Apartment"
+    ]
+}

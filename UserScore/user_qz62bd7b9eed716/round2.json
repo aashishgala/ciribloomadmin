@@ -1,0 +1,67 @@
+
+    {
+        "databaseId" : "4",
+        "que_numb" : "1",
+        "correcAns" : "Symbol",
+        "userAns" : "Symbol"
+    },
+    {
+        "databaseId" : "6",
+        "que_numb" : "2",
+        "correcAns" : "The font or the lettering in which the company name is written",
+        "userAns" : "A stamp that is used for official purpose"
+    },
+    {
+        "databaseId" : "8",
+        "que_numb" : "3",
+        "correcAns" : "movement of action",
+        "userAns" : "none of the above"
+    },
+    {
+        "databaseId" : "9",
+        "que_numb" : "4",
+        "correcAns" : "pattern",
+        "userAns" : "pattern"
+    },
+    {
+        "databaseId" : "10",
+        "que_numb" : "5",
+        "correcAns" : "content",
+        "userAns" : "content"
+    },
+    {
+        "databaseId" : "15",
+        "que_numb" : "6",
+        "correcAns" : "solidity or mass",
+        "userAns" : "the specific spatial character"
+    },
+    {
+        "databaseId" : "18",
+        "que_numb" : "7",
+        "correcAns" : "value",
+        "userAns" : "intensity"
+    },
+    {
+        "databaseId" : "19",
+        "que_numb" : "8",
+        "correcAns" : "Chromosteriopsis",
+        "userAns" : "RYB Primaries"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "45 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "x height"
+    },
+    {
+        "databaseId" : "24",
+        "que_numb" : "11",
+        "correcAns" : "78 contiguous nib widths",
+        "userAns" : "56 contiguous nib widths"
+    },

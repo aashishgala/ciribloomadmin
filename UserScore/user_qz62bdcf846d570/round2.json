@@ -1,0 +1,397 @@
+
+    {
+        "databaseId" : "2",
+        "que_numb" : "1",
+        "correcAns" : "Any of these",
+        "userAns" : "Use the same color palette throughout"
+    },
+    {
+        "databaseId" : "3",
+        "que_numb" : "2",
+        "correcAns" : "All of these",
+        "userAns" : "Placement"
+    },
+    {
+        "databaseId" : "9",
+        "que_numb" : "3",
+        "correcAns" : "pattern",
+        "userAns" : "pattern"
+    },
+    {
+        "databaseId" : "10",
+        "que_numb" : "4",
+        "correcAns" : "content",
+        "userAns" : "panel"
+    },
+    {
+        "databaseId" : "12",
+        "que_numb" : "5",
+        "correcAns" : "texture",
+        "userAns" : "balance"
+    },
+    {
+        "databaseId" : "18",
+        "que_numb" : "6",
+        "correcAns" : "value",
+        "userAns" : "value"
+    },
+    {
+        "databaseId" : "19",
+        "que_numb" : "7",
+        "correcAns" : "Chromosteriopsis",
+        "userAns" : "RYB Primaries"
+    },
+    {
+        "databaseId" : "21",
+        "que_numb" : "8",
+        "correcAns" : "Art that is focused solely on imaginative artistic or intellectual content",
+        "userAns" : "Art that is better than Applied Art in its worth"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "35 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "x height"
+    },
+    {
+        "databaseId" : "24",
+        "que_numb" : "11",
+        "correcAns" : "78 contiguous nib widths",
+        "userAns" : "78 contiguous nib widths"
+    },
+    {
+        "databaseId" : "25",
+        "que_numb" : "12",
+        "correcAns" : "Letter f",
+        "userAns" : "Letter g"
+    },
+    {
+        "databaseId" : "5",
+        "que_numb" : "1",
+        "correcAns" : "A representation of the target user",
+        "userAns" : "Anything that is personal"
+    },
+    {
+        "databaseId" : "6",
+        "que_numb" : "2",
+        "correcAns" : "The font or the lettering in which the company name is written",
+        "userAns" : "Letterhead the company uses all the time"
+    },
+    {
+        "databaseId" : "7",
+        "que_numb" : "3",
+        "correcAns" : "Crop Marks",
+        "userAns" : "Crop Marks"
+    },
+    {
+        "databaseId" : "9",
+        "que_numb" : "4",
+        "correcAns" : "pattern",
+        "userAns" : "pattern"
+    },
+    {
+        "databaseId" : "14",
+        "que_numb" : "5",
+        "correcAns" : "size",
+        "userAns" : "depth"
+    },
+    {
+        "databaseId" : "15",
+        "que_numb" : "6",
+        "correcAns" : "solidity or mass",
+        "userAns" : "the extent of a shape"
+    },
+    {
+        "databaseId" : "17",
+        "que_numb" : "7",
+        "correcAns" : "positive space",
+        "userAns" : "negative space"
+    },
+    {
+        "databaseId" : "20",
+        "que_numb" : "8",
+        "correcAns" : "Paper Prototype",
+        "userAns" : "Rapid Prototype"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "35 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "x height"
+    },
+    {
+        "databaseId" : "3",
+        "que_numb" : "1",
+        "correcAns" : "All of these",
+        "userAns" : "All of these"
+    },
+    {
+        "databaseId" : "5",
+        "que_numb" : "2",
+        "correcAns" : "A representation of the target user",
+        "userAns" : "The Stakeholder client"
+    },
+    {
+        "databaseId" : "11",
+        "que_numb" : "3",
+        "correcAns" : "composition",
+        "userAns" : "harmony"
+    },
+    {
+        "databaseId" : "15",
+        "que_numb" : "4",
+        "correcAns" : "solidity or mass",
+        "userAns" : "extension in any direction"
+    },
+    {
+        "databaseId" : "16",
+        "que_numb" : "5",
+        "correcAns" : "all of the above",
+        "userAns" : "value"
+    },
+    {
+        "databaseId" : "17",
+        "que_numb" : "6",
+        "correcAns" : "positive space",
+        "userAns" : "value"
+    },
+    {
+        "databaseId" : "19",
+        "que_numb" : "7",
+        "correcAns" : "Chromosteriopsis",
+        "userAns" : "RYB Primaries"
+    },
+    {
+        "databaseId" : "21",
+        "que_numb" : "8",
+        "correcAns" : "Art that is focused solely on imaginative artistic or intellectual content",
+        "userAns" : "Art that is focused solely on imaginative artistic or intellectual content"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "35 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "y height"
+    },
+    {
+        "databaseId" : "2",
+        "que_numb" : "1",
+        "correcAns" : "Any of these",
+        "userAns" : "Repeat a color shape or texture in different areas throughout"
+    },
+    {
+        "databaseId" : "5",
+        "que_numb" : "2",
+        "correcAns" : "A representation of the target user",
+        "userAns" : "The Stakeholder client"
+    },
+    {
+        "databaseId" : "7",
+        "que_numb" : "3",
+        "correcAns" : "Crop Marks",
+        "userAns" : "Crop Marks"
+    },
+    {
+        "databaseId" : "8",
+        "que_numb" : "4",
+        "correcAns" : "movement of action",
+        "userAns" : "geometric drawing"
+    },
+    {
+        "databaseId" : "10",
+        "que_numb" : "5",
+        "correcAns" : "content",
+        "userAns" : "panel"
+    },
+    {
+        "databaseId" : "13",
+        "que_numb" : "6",
+        "correcAns" : "height width and depth",
+        "userAns" : "none of the above"
+    },
+    {
+        "databaseId" : "18",
+        "que_numb" : "7",
+        "correcAns" : "value",
+        "userAns" : "form"
+    },
+    {
+        "databaseId" : "21",
+        "que_numb" : "8",
+        "correcAns" : "Art that is focused solely on imaginative artistic or intellectual content",
+        "userAns" : "Art that is focused solely on imaginative artistic or intellectual content"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "25 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "y length"
+    },
+    {
+        "databaseId" : "2",
+        "que_numb" : "1",
+        "correcAns" : "Any of these",
+        "userAns" : "Repeat a color shape or texture in different areas throughout"
+    },
+    {
+        "databaseId" : "4",
+        "que_numb" : "2",
+        "correcAns" : "Symbol",
+        "userAns" : "Logotype"
+    },
+    {
+        "databaseId" : "8",
+        "que_numb" : "3",
+        "correcAns" : "movement of action",
+        "userAns" : "landscapes"
+    },
+    {
+        "databaseId" : "10",
+        "que_numb" : "4",
+        "correcAns" : "content",
+        "userAns" : "panel"
+    },
+    {
+        "databaseId" : "13",
+        "que_numb" : "5",
+        "correcAns" : "height width and depth",
+        "userAns" : "height width and depth"
+    },
+    {
+        "databaseId" : "17",
+        "que_numb" : "6",
+        "correcAns" : "positive space",
+        "userAns" : "negative space"
+    },
+    {
+        "databaseId" : "19",
+        "que_numb" : "7",
+        "correcAns" : "Chromosteriopsis",
+        "userAns" : "RYB Primaries"
+    },
+    {
+        "databaseId" : "21",
+        "que_numb" : "8",
+        "correcAns" : "Art that is focused solely on imaginative artistic or intellectual content",
+        "userAns" : "Art that is focused solely on imaginative artistic or intellectual content"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "35 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "x height"
+    },
+    {
+        "databaseId" : "2",
+        "que_numb" : "1",
+        "correcAns" : "Any of these",
+        "userAns" : "Repeat a color shape or texture in different areas throughout"
+    },
+    {
+        "databaseId" : "4",
+        "que_numb" : "2",
+        "correcAns" : "Symbol",
+        "userAns" : "Logotype"
+    },
+    {
+        "databaseId" : "6",
+        "que_numb" : "3",
+        "correcAns" : "The font or the lettering in which the company name is written",
+        "userAns" : "Letterhead the company uses all the time"
+    },
+    {
+        "databaseId" : "7",
+        "que_numb" : "4",
+        "correcAns" : "Crop Marks",
+        "userAns" : "Crop Marks"
+    },
+    {
+        "databaseId" : "8",
+        "que_numb" : "5",
+        "correcAns" : "movement of action",
+        "userAns" : "none of the above"
+    },
+    {
+        "databaseId" : "11",
+        "que_numb" : "6",
+        "correcAns" : "composition",
+        "userAns" : "harmony"
+    },
+    {
+        "databaseId" : "13",
+        "que_numb" : "7",
+        "correcAns" : "height width and depth",
+        "userAns" : "height and depth"
+    },
+    {
+        "databaseId" : "18",
+        "que_numb" : "8",
+        "correcAns" : "value",
+        "userAns" : "intensity"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "55 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "y length"
+    },
+    {
+        "databaseId" : "24",
+        "que_numb" : "11",
+        "correcAns" : "78 contiguous nib widths",
+        "userAns" : "56 contiguous nib widths"
+    },
+    {
+        "databaseId" : "25",
+        "que_numb" : "12",
+        "correcAns" : "Letter f",
+        "userAns" : "Letter y"
+    },
+    {
+        "databaseId" : "26",
+        "que_numb" : "13",
+        "correcAns" : "orange",
+        "userAns" : "green"
+    },
+    {
+        "databaseId" : "27",
+        "que_numb" : "14",
+        "correcAns" : "Red",
+        "userAns" : "Purple"
+    },

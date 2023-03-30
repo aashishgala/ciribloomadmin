@@ -1,0 +1,98 @@
+:root 
+{
+    --txtgreen: #dff0d8;
+    --forestgreen: #567a36;
+    --white: #ffffff;
+}
+body{
+	background-color: #f8fff5 !important;
+}
+.page-wrapper{
+width: 900px;	
+margin:5% auto;
+padding: 15px;
+background-color:white;
+box-shadow: 1px 1px 1px 1px black;
+}
+.quizz-body .q-list li{margin: 35px 0px;}
+.q-qst{ font-size:14px;}
+
+.navbar-inverse{
+	/* background-color: #8a178f !important;
+    border-color: #f228fa !important; */
+	background-color: #dff0d8 !important;
+    border-color: #d6e9c6 !important;
+	box-shadow: 5px 5px 5px grey;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #3c763d !important;	
+}
+.navbar-header .navbar-brand{
+	/* color: #cfcfcf !important; */
+	color: #3c763d !important;
+}
+
+.start-qiz{
+    background-color: var(--txtgreen);
+	color: var(--forestgreen);
+	margin-bottom: 15px !important;
+}
+.start-qiz:hover{
+	background-color: var(--forestgreen);
+	color: var(--txtgreen) !important;
+}
+
+.tab-content div p{
+	padding: 20px 0px;
+}
+
+.score-tab li a{
+	color: var(--forestgreen);
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{
+	color: #dff0d8 !important;
+    background-color: var(--forestgreen) !important;
+}
+.navbar-fixed-top{
+	border-width: 0 0 0px !important;
+}
+.adm-tbl thead tr th{
+	color: var(--forestgreen);
+    background: #dff0d8;
+	font-size: 14px;
+}
+.adm-tbl tbody tr td{
+	color: var(--forestgreen);
+	vertical-align: middle !important;
+	font-size: 13px;
+}
+.delete-user{
+	color: red;
+	font-weight: bold;
+	cursor: pointer;
+}
+.q-panel{
+	position: relative !important;
+	height: 54px;
+}
+.add-q{
+	color: var(--txtgreen) !important;
+    background-color: var(--forestgreen) !important;
+    position: absolute;
+    right: 15px;
+    bottom: 9px;
+    padding: 8px 15px !important;
+    font-size: 12px !important;
+}
+
+.well {
+    background-color: var(--txtgreen) !important;
+    box-shadow: inset 0 5px 15px var(--forestgreen) !important;
+}
+.usr-btn{
+    background: var(--forestgreen) !important;
+    color: var(--txtgreen) !important;
+}
+.red{
+	color: red !important;
+}

@@ -1,0 +1,41 @@
+[
+[
+
+    {
+        "databaseId" : "36",
+        "que_numb" : "3",
+        "correcAns" : "humanism",
+        "userAns" : "groupism"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "6",
+        "correcAns" : "All of the above",
+        "userAns" : "Understands the relationship between ones emotions thoughts values and behaviors"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "7",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "creating mental images in your mind"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "8",
+        "correcAns" : "Philosophy ",
+        "userAns" : "Science"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "9",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "None of these"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "10",
+        "correcAns" : "cubism",
+        "userAns" : "pop art"
+    }
+
+]

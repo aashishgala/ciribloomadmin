@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "37",
+        "que_numb" : "1",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "a room devoted to the handlettered copying of manuscripts"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "2",
+        "correcAns" : "abstract",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "3",
+        "correcAns" : "realism",
+        "userAns" : "abstract"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "4",
+        "correcAns" : "Understands the relationship between ones emotions thoughts values and behaviors",
+        "userAns" : "Identifies ones emotions and how they affect others"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "5",
+        "correcAns" : "humanism",
+        "userAns" : "groupism"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "6",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "wondering as you read"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "7",
+        "correcAns" : "all of the above",
+        "userAns" : "Science"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "8",
+        "correcAns" : "realism",
+        "userAns" : "Paintings on rocks"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "9",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Movable machines"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "10",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Petals"
+    }
+]

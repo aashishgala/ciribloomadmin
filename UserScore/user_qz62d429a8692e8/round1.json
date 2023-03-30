@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "34",
+        "que_numb" : "1",
+        "correcAns" : "cubism",
+        "userAns" : "impressionism"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "2",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Blocks"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "3",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking what the text might be about"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "4",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Petals"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "5",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "the artist who scripted the books"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "6",
+        "correcAns" : "humanism",
+        "userAns" : "humanism"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "7",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Beats"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "8",
+        "correcAns" : "abstract",
+        "userAns" : "realism"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "9",
+        "correcAns" : "All of the above",
+        "userAns" : "All of the above"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "10",
+        "correcAns" : "Philosophy ",
+        "userAns" : "all of the above"
+    }
+]

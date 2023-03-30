@@ -1,0 +1,425 @@
+[
+[
+
+    {
+        "databaseId" : "2",
+        "que_numb" : "1",
+        "correcAns" : "Any of these",
+        "userAns" : "Repeat a color shape or texture in different areas throughout"
+    },
+    {
+        "databaseId" : "3",
+        "que_numb" : "2",
+        "correcAns" : "All of these",
+        "userAns" : "All of these"
+    },
+    {
+        "databaseId" : "5",
+        "que_numb" : "3",
+        "correcAns" : "A representation of the target user",
+        "userAns" : "A representation of the target user"
+    },
+    {
+        "databaseId" : "8",
+        "que_numb" : "4",
+        "correcAns" : "movement of action",
+        "userAns" : "none of the above"
+    },
+    {
+        "databaseId" : "15",
+        "que_numb" : "5",
+        "correcAns" : "solidity or mass",
+        "userAns" : "the specific spatial character"
+    },
+    {
+        "databaseId" : "18",
+        "que_numb" : "6",
+        "correcAns" : "value",
+        "userAns" : "form"
+    },
+    {
+        "databaseId" : "19",
+        "que_numb" : "7",
+        "correcAns" : "Chromosteriopsis",
+        "userAns" : "RYB Primaries"
+    },
+    {
+        "databaseId" : "20",
+        "que_numb" : "8",
+        "correcAns" : "Paper Prototype",
+        "userAns" : "Paper Prototype"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "45 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x height",
+        "userAns" : "y length"
+    },
+    {
+        "databaseId" : "24",
+        "que_numb" : "11",
+        "correcAns" : "78 contiguous nib widths",
+        "userAns" : "56 contiguous nib widths"
+    },
+    {
+        "databaseId" : "25",
+        "que_numb" : "12",
+        "correcAns" : "Letter f",
+        "userAns" : "Letter g"
+    },
+    {
+        "databaseId" : "26",
+        "que_numb" : "13",
+        "correcAns" : "orange",
+        "userAns" : "orange"
+    },
+    {
+        "databaseId" : "27",
+        "que_numb" : "14",
+        "correcAns" : "Red",
+        "userAns" : "Black"
+    },
+    {
+        "databaseId" : "28",
+        "que_numb" : "15",
+        "correcAns" : "Shade",
+        "userAns" : "Fuzzy"
+    },
+    {
+        "databaseId" : "29",
+        "que_numb" : "16",
+        "correcAns" : "pleasing arrangements of color",
+        "userAns" : "contrast of colors"
+    },
+    {
+        "databaseId" : "30",
+        "que_numb" : "17",
+        "correcAns" : "intensity",
+        "userAns" : "brightness"
+    },
+    {
+        "databaseId" : "31",
+        "que_numb" : "18",
+        "correcAns" : "tone",
+        "userAns" : "tint"
+    },
+    {
+        "databaseId" : "32",
+        "que_numb" : "19",
+        "correcAns" : "monochromatic Scheme",
+        "userAns" : "monochromatic Scheme"
+    },
+    {
+        "databaseId" : "42",
+        "que_numb" : "20",
+        "correcAns" : "foreground",
+        "userAns" : "depth of field"
+    },
+    {
+        "databaseId" : "46",
+        "que_numb" : "21",
+        "correcAns" : "f18",
+        "userAns" : "f63"
+    },
+    {
+        "databaseId" : "47",
+        "que_numb" : "22",
+        "correcAns" : "Rule of Thirds",
+        "userAns" : "Rule of Thirds"
+    },
+    {
+        "databaseId" : "48",
+        "que_numb" : "23",
+        "correcAns" : " Highlights",
+        "userAns" : " Midtones"
+    },
+    {
+        "databaseId" : "50",
+        "que_numb" : "24",
+        "correcAns" : "uniformly increasing or decreasing the space between all letters in a block of text",
+        "userAns" : "uniformly adjusting the height of all characters"
+    },
+    {
+        "databaseId" : "52",
+        "que_numb" : "25",
+        "correcAns" : "Arial is a sans serif font Times New Roman is a serif font",
+        "userAns" : "Both are serif fonts"
+    },
+    {
+        "databaseId" : "57",
+        "que_numb" : "26",
+        "correcAns" : "The design of a letter  typeface that suggests its appearance",
+        "userAns" : "The typefaces which to be used as the meaning of the text matter suggests"
+    },
+    {
+        "databaseId" : "58",
+        "que_numb" : "27",
+        "correcAns" : "Point",
+        "userAns" : "Centimeter"
+    },
+    {
+        "databaseId" : "61",
+        "que_numb" : "28",
+        "correcAns" : "All the capital letters of a font",
+        "userAns" : "Letters which are bigger in size"
+    },
+    {
+        "databaseId" : "64",
+        "que_numb" : "29",
+        "correcAns" : "Lines of type set without any additional interline spacing",
+        "userAns" : " Letters designed for architectural and engineering purpose"
+    },
+    {
+        "databaseId" : "70",
+        "que_numb" : "30",
+        "correcAns" : "User InterfaceUser Experience Design",
+        "userAns" : "User InboundUser Example Design"
+    },
+    {
+        "databaseId" : "73",
+        "que_numb" : "31",
+        "correcAns" : "Illustrator",
+        "userAns" : "After Effects"
+    },
+    {
+        "databaseId" : "76",
+        "que_numb" : "32",
+        "correcAns" : "Photoshop",
+        "userAns" : "Acrobat"
+    },
+    {
+        "databaseId" : "77",
+        "que_numb" : "33",
+        "correcAns" : "wav",
+        "userAns" : "wav"
+    },
+    {
+        "databaseId" : "78",
+        "que_numb" : "34",
+        "correcAns" : "Raster",
+        "userAns" : "GIFs"
+    },
+    {
+        "databaseId" : "82",
+        "que_numb" : "35",
+        "correcAns" : "The website is suitable to access on all devices",
+        "userAns" : "The website is built around the theme of social responsibility"
+    }
+]
+    {
+        "databaseId" : "5",
+        "que_numb" : "1",
+        "correcAns" : "A representation of the target user",
+        "userAns" : "Anything that is personal"
+    },
+    {
+        "databaseId" : "6",
+        "que_numb" : "2",
+        "correcAns" : "The font or the lettering in which the company name is written",
+        "userAns" : "A logbook that contains all important company information"
+    },
+    {
+        "databaseId" : "11",
+        "que_numb" : "3",
+        "correcAns" : "composition",
+        "userAns" : "contrast"
+    },
+    {
+        "databaseId" : "12",
+        "que_numb" : "4",
+        "correcAns" : "texture",
+        "userAns" : "balance"
+    },
+    {
+        "databaseId" : "13",
+        "que_numb" : "5",
+        "correcAns" : "height width and depth",
+        "userAns" : "height and depth"
+    },
+    {
+        "databaseId" : "15",
+        "que_numb" : "6",
+        "correcAns" : "solidity or mass",
+        "userAns" : "solidity or mass"
+    },
+    {
+        "databaseId" : "17",
+        "que_numb" : "7",
+        "correcAns" : "positive space",
+        "userAns" : "form"
+    },
+    {
+        "databaseId" : "19",
+        "que_numb" : "8",
+        "correcAns" : "Chromosteriopsis",
+        "userAns" : "Chromosteriopsis"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "45 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x height",
+        "userAns" : "y length"
+    },
+    {
+        "databaseId" : "24",
+        "que_numb" : "11",
+        "correcAns" : "78 contiguous nib widths",
+        "userAns" : "67 contiguous nib widths"
+    },
+    {
+        "databaseId" : "25",
+        "que_numb" : "12",
+        "correcAns" : "Letter f",
+        "userAns" : "Letter k"
+    },
+    {
+        "databaseId" : "26",
+        "que_numb" : "13",
+        "correcAns" : "orange",
+        "userAns" : "purple"
+    },
+    {
+        "databaseId" : "27",
+        "que_numb" : "14",
+        "correcAns" : "Red",
+        "userAns" : "Black"
+    },
+    {
+        "databaseId" : "28",
+        "que_numb" : "15",
+        "correcAns" : "Shade",
+        "userAns" : "Fuzzy"
+    },
+    {
+        "databaseId" : "29",
+        "que_numb" : "16",
+        "correcAns" : "pleasing arrangements of color",
+        "userAns" : "none of the above"
+    },
+    {
+        "databaseId" : "30",
+        "que_numb" : "17",
+        "correcAns" : "intensity",
+        "userAns" : "hue"
+    },
+    {
+        "databaseId" : "31",
+        "que_numb" : "18",
+        "correcAns" : "tone",
+        "userAns" : "contrast"
+    },
+    {
+        "databaseId" : "32",
+        "que_numb" : "19",
+        "correcAns" : "monochromatic Scheme",
+        "userAns" : "monochromatic Scheme"
+    },
+    {
+        "databaseId" : "43",
+        "que_numb" : "20",
+        "correcAns" : "balance",
+        "userAns" : "contrast"
+    },
+    {
+        "databaseId" : "46",
+        "que_numb" : "21",
+        "correcAns" : "f18",
+        "userAns" : "f16"
+    },
+    {
+        "databaseId" : "47",
+        "que_numb" : "22",
+        "correcAns" : "Rule of Thirds",
+        "userAns" : "None of these"
+    },
+    {
+        "databaseId" : "48",
+        "que_numb" : "23",
+        "correcAns" : " Highlights",
+        "userAns" : " Darks"
+    },
+    {
+        "databaseId" : "50",
+        "que_numb" : "24",
+        "correcAns" : "uniformly increasing or decreasing the space between all letters in a block of text",
+        "userAns" : "the process of selecting a documents typeface"
+    },
+    {
+        "databaseId" : "52",
+        "que_numb" : "25",
+        "correcAns" : "Arial is a sans serif font Times New Roman is a serif font",
+        "userAns" : "Both are serif fonts"
+    },
+    {
+        "databaseId" : "59",
+        "que_numb" : "26",
+        "correcAns" : "A type of alignment",
+        "userAns" : "appropriate use of type"
+    },
+    {
+        "databaseId" : "63",
+        "que_numb" : "27",
+        "correcAns" : "Typeface evolved from Gothic Lettering",
+        "userAns" : "Letters designed for magical purpose"
+    },
+    {
+        "databaseId" : "65",
+        "que_numb" : "28",
+        "correcAns" : "Letters those are vertical  without slant",
+        "userAns" : "None of the above"
+    },
+    {
+        "databaseId" : "69",
+        "que_numb" : "29",
+        "correcAns" : "The parts of some lowercase letters which hang below xheight",
+        "userAns" : "The letters used specially for the footnotes of a technical book"
+    },
+    {
+        "databaseId" : "72",
+        "que_numb" : "30",
+        "correcAns" : "RGB",
+        "userAns" : "HSBC"
+    },
+    {
+        "databaseId" : "74",
+        "que_numb" : "31",
+        "correcAns" : "72 points per inch",
+        "userAns" : "72 points per inch"
+    },
+    {
+        "databaseId" : "77",
+        "que_numb" : "32",
+        "correcAns" : "wav",
+        "userAns" : "bmp"
+    },
+    {
+        "databaseId" : "78",
+        "que_numb" : "33",
+        "correcAns" : "Raster",
+        "userAns" : "Gradients"
+    },
+    {
+        "databaseId" : "80",
+        "que_numb" : "34",
+        "correcAns" : "Environmental Analysis",
+        "userAns" : "Environmental Analysis"
+    },
+    {
+        "databaseId" : "84",
+        "que_numb" : "35",
+        "correcAns" : "A navigation that is step by step such as a wizard",
+        "userAns" : "Where the sequence of the navigation is well organised"
+    }
+]

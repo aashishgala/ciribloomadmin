@@ -1,0 +1,61 @@
+
+    {
+        "databaseId" : "2",
+        "que_numb" : "1",
+        "correcAns" : "Any of these",
+        "userAns" : "Use the same color palette throughout"
+    },
+    {
+        "databaseId" : "9",
+        "que_numb" : "2",
+        "correcAns" : "pattern",
+        "userAns" : "pattern"
+    },
+    {
+        "databaseId" : "10",
+        "que_numb" : "3",
+        "correcAns" : "content",
+        "userAns" : "layer"
+    },
+    {
+        "databaseId" : "11",
+        "que_numb" : "4",
+        "correcAns" : "composition",
+        "userAns" : "harmony"
+    },
+    {
+        "databaseId" : "15",
+        "que_numb" : "5",
+        "correcAns" : "solidity or mass",
+        "userAns" : "the extent of a shape"
+    },
+    {
+        "databaseId" : "16",
+        "que_numb" : "6",
+        "correcAns" : "all of the above",
+        "userAns" : "colour"
+    },
+    {
+        "databaseId" : "17",
+        "que_numb" : "7",
+        "correcAns" : "positive space",
+        "userAns" : "negative space"
+    },
+    {
+        "databaseId" : "18",
+        "que_numb" : "8",
+        "correcAns" : "value",
+        "userAns" : "space"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "35 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "x height"
+    },

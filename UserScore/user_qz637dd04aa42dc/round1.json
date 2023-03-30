@@ -1,0 +1,65 @@
+[
+[
+
+    {
+        "databaseId" : "39",
+        "que_numb" : "1",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Telescope"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "2",
+        "correcAns" : "humanism",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "3",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Petals"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "4",
+        "correcAns" : "abstract",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "5",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking what the text might be about"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "6",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Carvings in Temples"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "7",
+        "correcAns" : "cubism",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "8",
+        "correcAns" : "All of the above",
+        "userAns" : "All of the above"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "9",
+        "correcAns" : "Philosophy ",
+        "userAns" : "all of the above"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "10",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "A stylized script"
+    }
+
+]

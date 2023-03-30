@@ -1,0 +1,33 @@
+[
+
+    {
+        "databaseId" : "34",
+        "que_numb" : "1",
+        "correcAns" : "realism",
+        "userAns" : "abstract"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "2",
+        "correcAns" : "all of the above",
+        "userAns" : "Science"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "3",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Images incised in rock"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "4",
+        "correcAns" : "humanism",
+        "userAns" : "groupism"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "5",
+        "correcAns" : "abstract",
+        "userAns" : "realism"
+    }
+]

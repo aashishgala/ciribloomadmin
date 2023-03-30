@@ -1,0 +1,26 @@
+
+.header-bg{
+    height:50px;background:#1b5a7b;
+}
+.certi_head{
+    color: #f39734;
+}
+
+.border-sty{
+    border-bottom:1px solid;
+    border-bottom-style: dotted !important;
+    border-bottom-color: #b2b2b2 !important;
+}
+
+.border-name{
+    padding: 5px 18px;
+    display: block;
+}
+
+.border-on{
+    padding: 0px 18px;
+}
+
+.border-grade{
+    padding: 0px 18px;
+}

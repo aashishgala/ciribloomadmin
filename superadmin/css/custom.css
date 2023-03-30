@@ -1,0 +1,72 @@
+.icon-sty{
+    padding: 0 5px;
+    cursor: pointer;
+}
+.fa-trash{
+    color: red !important;
+}
+.fa-pen-alt{
+    color: green !important;
+}
+.red{
+    color: red;
+    font-weight: 500 !important;
+}
+
+caption{
+    caption-side: top;
+}
+
+td.marks_row{
+    padding: 0px 15px;
+}
+
+.marks_table.table-bordered td, .table-bordered th{
+    border : none !important;
+}
+.marks_table_parent td{
+    border : none !important; 
+}
+.marks_table.table td, .table th{
+    border : none;
+}
+.modul_div{
+    padding: 10px 1rem !important;
+}
+.asign_div{
+    padding: 10px 1rem !important;
+}
+
+.pagination .current{
+    padding: 5px 12px;
+    background: #2950c3;
+    color: #fff;
+}
+
+.pagination a{
+    padding: 5px 12px;
+    text-decoration: none;
+}
+
+.pagination .btn:focus{
+    box-shadow:none;
+}
+
+.module_row .alert{
+    margin-bottom: 0px !important;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.tbl-stu-row{
+    margin-bottom: 0px;
+}
+
+/* #accordionMarks>div.mr-div:nth-child(3n+2){
+    background-color: red;
+} */
+#accordionMarks>div.mr-div:nth-child(2n+1){
+    background-color: green;
+}

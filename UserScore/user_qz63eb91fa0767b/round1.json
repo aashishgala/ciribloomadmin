@@ -1,0 +1,15 @@
+[
+
+    {
+        "databaseId" : "1",
+        "que_numb" : "1",
+        "correcAns" : "Philosophy ",
+        "userAns" : "Philosophy "
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "2",
+        "correcAns" : "abstract",
+        "userAns" : "realism"
+    }
+]

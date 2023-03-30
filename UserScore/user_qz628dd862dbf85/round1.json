@@ -1,0 +1,57 @@
+[
+
+    {
+        "databaseId" : "34",
+        "que_numb" : "2",
+        "correcAns" : "realism",
+        "userAns" : "impressionism"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "3",
+        "correcAns" : "Understands the relationship between ones emotions thoughts values and behaviors",
+        "userAns" : "All of the above"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "4",
+        "correcAns" : "all of the above",
+        "userAns" : "Philosophy "
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "5",
+        "correcAns" : "abstract",
+        "userAns" : "abstract"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "6",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "the ancient Egyptian writing material called papyrus"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "7",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "A stylized script"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "8",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Movable type Printing Press"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "9",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Carvings in Temples"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "10",
+        "correcAns" : "humanism",
+        "userAns" : "fascism"
+    }
+]

@@ -1,0 +1,213 @@
+[
+
+    {
+        "databaseId" : "3",
+        "que_numb" : "1",
+        "correcAns" : "All of these",
+        "userAns" : "All of these"
+    },
+    {
+        "databaseId" : "4",
+        "que_numb" : "2",
+        "correcAns" : "Symbol",
+        "userAns" : "Muppet"
+    },
+    {
+        "databaseId" : "7",
+        "que_numb" : "3",
+        "correcAns" : "Crop Marks",
+        "userAns" : "Color Bars"
+    },
+    {
+        "databaseId" : "8",
+        "que_numb" : "4",
+        "correcAns" : "movement of action",
+        "userAns" : "geometric drawing"
+    },
+    {
+        "databaseId" : "11",
+        "que_numb" : "5",
+        "correcAns" : "composition",
+        "userAns" : "unity"
+    },
+    {
+        "databaseId" : "12",
+        "que_numb" : "6",
+        "correcAns" : "texture",
+        "userAns" : "unity"
+    },
+    {
+        "databaseId" : "14",
+        "que_numb" : "7",
+        "correcAns" : "size",
+        "userAns" : "mass"
+    },
+    {
+        "databaseId" : "19",
+        "que_numb" : "8",
+        "correcAns" : "Chromosteriopsis",
+        "userAns" : "RYB Primaries"
+    },
+    {
+        "databaseId" : "22",
+        "que_numb" : "9",
+        "correcAns" : "45 Degrees",
+        "userAns" : "35 Degrees"
+    },
+    {
+        "databaseId" : "23",
+        "que_numb" : "10",
+        "correcAns" : "x length",
+        "userAns" : "y height"
+    },
+    {
+        "databaseId" : "24",
+        "que_numb" : "11",
+        "correcAns" : "78 contiguous nib widths",
+        "userAns" : "67 contiguous nib widths"
+    },
+    {
+        "databaseId" : "25",
+        "que_numb" : "12",
+        "correcAns" : "Letter f",
+        "userAns" : "Letter g"
+    },
+    {
+        "databaseId" : "26",
+        "que_numb" : "13",
+        "correcAns" : "orange",
+        "userAns" : "purple"
+    },
+    {
+        "databaseId" : "27",
+        "que_numb" : "14",
+        "correcAns" : "Red",
+        "userAns" : "Red"
+    },
+    {
+        "databaseId" : "28",
+        "que_numb" : "15",
+        "correcAns" : "Shade",
+        "userAns" : "Tone"
+    },
+    {
+        "databaseId" : "29",
+        "que_numb" : "16",
+        "correcAns" : "pleasing arrangements of color",
+        "userAns" : "none of the above"
+    },
+    {
+        "databaseId" : "30",
+        "que_numb" : "17",
+        "correcAns" : "intensity",
+        "userAns" : "brightness"
+    },
+    {
+        "databaseId" : "31",
+        "que_numb" : "18",
+        "correcAns" : "tone",
+        "userAns" : "saturation"
+    },
+    {
+        "databaseId" : "32",
+        "que_numb" : "19",
+        "correcAns" : "monochromatic Scheme",
+        "userAns" : "bichromatic Scheme"
+    },
+    {
+        "databaseId" : "42",
+        "que_numb" : "20",
+        "correcAns" : "foreground",
+        "userAns" : "background"
+    },
+    {
+        "databaseId" : "43",
+        "que_numb" : "21",
+        "correcAns" : "balance",
+        "userAns" : "contrast"
+    },
+    {
+        "databaseId" : "46",
+        "que_numb" : "22",
+        "correcAns" : "f18",
+        "userAns" : "f16"
+    },
+    {
+        "databaseId" : "48",
+        "que_numb" : "23",
+        "correcAns" : " Highlights",
+        "userAns" : " Darks"
+    },
+    {
+        "databaseId" : "51",
+        "que_numb" : "24",
+        "correcAns" : "A decorative stroke that finishes off the end of a letters stem",
+        "userAns" : "A writing book"
+    },
+    {
+        "databaseId" : "53",
+        "que_numb" : "25",
+        "correcAns" : "Apex",
+        "userAns" : "Tail"
+    },
+    {
+        "databaseId" : "60",
+        "que_numb" : "26",
+        "correcAns" : "Type weight",
+        "userAns" : "None of the above"
+    },
+    {
+        "databaseId" : "64",
+        "que_numb" : "27",
+        "correcAns" : "Lines of type set without any additional interline spacing",
+        "userAns" : " Letters designed for architectural and engineering purpose"
+    },
+    {
+        "databaseId" : "65",
+        "que_numb" : "28",
+        "correcAns" : "Letters those are vertical  without slant",
+        "userAns" : "None of the above"
+    },
+    {
+        "databaseId" : "67",
+        "que_numb" : "29",
+        "correcAns" : "A Large Typeface designed for headings etc",
+        "userAns" : "Type that is meant for the use of exhibitions only"
+    },
+    {
+        "databaseId" : "71",
+        "que_numb" : "30",
+        "correcAns" : "Hyper Text Markup Language",
+        "userAns" : "Hyper Text Markup Language"
+    },
+    {
+        "databaseId" : "75",
+        "que_numb" : "31",
+        "correcAns" : "gif",
+        "userAns" : "psd"
+    },
+    {
+        "databaseId" : "76",
+        "que_numb" : "32",
+        "correcAns" : "Photoshop",
+        "userAns" : "Acrobat"
+    },
+    {
+        "databaseId" : "81",
+        "que_numb" : "33",
+        "correcAns" : "The hierarchy of information within a website or an app",
+        "userAns" : "The hierarchy of officials responsible to provide information"
+    },
+    {
+        "databaseId" : "82",
+        "que_numb" : "34",
+        "correcAns" : "The website is suitable to access on all devices",
+        "userAns" : "The website can sustain all DDOS attacks and still works"
+    },
+    {
+        "databaseId" : "83",
+        "que_numb" : "35",
+        "correcAns" : "Cascading Style Sheets",
+        "userAns" : "Code of Security Standards"
+    }
+]

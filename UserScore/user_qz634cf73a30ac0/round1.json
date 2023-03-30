@@ -1,0 +1,57 @@
+[
+
+    {
+        "databaseId" : "37",
+        "que_numb" : "2",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "letter forms"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "3",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Movable type Printing Press"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "4",
+        "correcAns" : "humanism",
+        "userAns" : "fascism"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "5",
+        "correcAns" : "All of the above",
+        "userAns" : "Understands the relationship between ones emotions thoughts values and behaviors"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "6",
+        "correcAns" : "cubism",
+        "userAns" : "abstract"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "7",
+        "correcAns" : "abstract",
+        "userAns" : "realism"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "8",
+        "correcAns" : "Philosophy ",
+        "userAns" : "Maths"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "9",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking about your thinking"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "10",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Pepper"
+    }
+]

@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "1",
+        "que_numb" : "1",
+        "correcAns" : "Philosophy ",
+        "userAns" : "Science"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "2",
+        "correcAns" : "humanism",
+        "userAns" : "humanism"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "3",
+        "correcAns" : "All of the above",
+        "userAns" : "Understands strengths and weakness "
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "4",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "the artist who scripted the books"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "5",
+        "correcAns" : "abstract",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "6",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Blocks"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "7",
+        "correcAns" : "cubism",
+        "userAns" : "abstract"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "8",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Beats"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "9",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking what the text might be about"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "10",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "None of these"
+    }
+]

@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "1",
+        "que_numb" : "1",
+        "correcAns" : "Philosophy ",
+        "userAns" : "Maths"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "2",
+        "correcAns" : "abstract",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "3",
+        "correcAns" : "cubism",
+        "userAns" : "impressionism"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "4",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Paintings on rocks"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "5",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Pepper"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "6",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Telescope"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "7",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "wondering as you read"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "8",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "a room devoted to the handlettered copying of manuscripts"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "9",
+        "correcAns" : "humanism",
+        "userAns" : "groupism"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "10",
+        "correcAns" : "All of the above",
+        "userAns" : "Identifies ones emotions and how they affect others"
+    }
+]

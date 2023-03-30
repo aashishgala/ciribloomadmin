@@ -1,0 +1,15 @@
+[
+
+    {
+        "databaseId" : "33",
+        "que_numb" : "1",
+        "correcAns" : "abstract",
+        "userAns" : "cubism"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "2",
+        "correcAns" : "Philosophy ",
+        "userAns" : "all of the above"
+    }
+]

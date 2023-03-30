@@ -1,0 +1,19 @@
+
+    {
+        "databaseId" : "40",
+        "que_numb" : "1",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking about your thinking"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "2",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Pepper"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "3",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Carvings in Temples"
+    },

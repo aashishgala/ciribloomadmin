@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "35",
+        "que_numb" : "1",
+        "correcAns" : "realism",
+        "userAns" : "Images incised in rock"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "2",
+        "correcAns" : "realism",
+        "userAns" : "impressionism"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "3",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Petals"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "4",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Telescope"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "5",
+        "correcAns" : "humanism",
+        "userAns" : "humanism"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "6",
+        "correcAns" : "abstract",
+        "userAns" : "realism"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "7",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "wondering as you read"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "8",
+        "correcAns" : "all of the above",
+        "userAns" : "all of the above"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "9",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "A stylized script"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "10",
+        "correcAns" : "Understands the relationship between ones emotions thoughts values and behaviors",
+        "userAns" : "Understands strengths and weakness "
+    }
+]

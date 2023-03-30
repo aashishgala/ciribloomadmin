@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "40",
+        "que_numb" : "1",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "creating mental images in your mind"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "2",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking about your thinking"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "3",
+        "correcAns" : "All of the above",
+        "userAns" : "Identifies ones emotions and how they affect others"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "4",
+        "correcAns" : "abstract",
+        "userAns" : "abstract"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "5",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Paintings on rocks"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "6",
+        "correcAns" : "Philosophy ",
+        "userAns" : "all of the above"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "7",
+        "correcAns" : "humanism",
+        "userAns" : "humanism"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "8",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Movable type Printing Press"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "9",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "the artist who scripted the books"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "10",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "the ancient Egyptian writing material called papyrus"
+    }
+]

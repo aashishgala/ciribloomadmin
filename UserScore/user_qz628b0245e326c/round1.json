@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "36",
+        "que_numb" : "1",
+        "correcAns" : "humanism",
+        "userAns" : "humanism"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "2",
+        "correcAns" : "realism",
+        "userAns" : "Images incised in rock"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "3",
+        "correcAns" : "all of the above",
+        "userAns" : "Philosophy "
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "4",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking about your thinking"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "5",
+        "correcAns" : "Understands the relationship between ones emotions thoughts values and behaviors",
+        "userAns" : "All of the above"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "6",
+        "correcAns" : "realism",
+        "userAns" : "abstract"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "7",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Movable type Printing Press"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "8",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "the ancient Egyptian writing material called papyrus"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "9",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "a room devoted to the handlettered copying of manuscripts"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "10",
+        "correcAns" : "abstract",
+        "userAns" : "surrealism"
+    }
+]

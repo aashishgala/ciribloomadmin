@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "38",
+        "que_numb" : "1",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "None of these"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "2",
+        "correcAns" : "Philosophy ",
+        "userAns" : "Science"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "3",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Beats"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "4",
+        "correcAns" : "All of the above",
+        "userAns" : "Understands strengths and weakness "
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "5",
+        "correcAns" : "humanism",
+        "userAns" : "fascism"
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "6",
+        "correcAns" : "cubism",
+        "userAns" : "impressionism"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "7",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Paintings on rocks"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "8",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "wondering as you read"
+    },
+    {
+        "databaseId" : "37",
+        "que_numb" : "9",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "letter forms"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "10",
+        "correcAns" : "abstract",
+        "userAns" : "cubism"
+    }
+]

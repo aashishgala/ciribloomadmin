@@ -1,0 +1,63 @@
+[
+
+    {
+        "databaseId" : "37",
+        "que_numb" : "1",
+        "correcAns" : "a room devoted to the handlettered copying of manuscripts",
+        "userAns" : "letter forms"
+    },
+    {
+        "databaseId" : "40",
+        "que_numb" : "2",
+        "correcAns" : "thinking about your thinking",
+        "userAns" : "thinking about your thinking"
+    },
+    {
+        "databaseId" : "39",
+        "que_numb" : "3",
+        "correcAns" : "Movable type Printing Press",
+        "userAns" : "Telescope"
+    },
+    {
+        "databaseId" : "36",
+        "que_numb" : "4",
+        "correcAns" : "humanism",
+        "userAns" : "fascism"
+    },
+    {
+        "databaseId" : "35",
+        "que_numb" : "5",
+        "correcAns" : "Images incised in rock",
+        "userAns" : "Paintings on rocks"
+    },
+    {
+        "databaseId" : "1",
+        "que_numb" : "6",
+        "correcAns" : "all of the above",
+        "userAns" : "Science"
+    },
+    {
+        "databaseId" : "33",
+        "que_numb" : "7",
+        "correcAns" : "abstract",
+        "userAns" : "realism"
+    },
+    {
+        "databaseId" : "41",
+        "que_numb" : "8",
+        "correcAns" : "Understands the relationship between ones emotions thoughts values and behaviors",
+        "userAns" : "Understands strengths and weakness "
+    },
+    {
+        "databaseId" : "34",
+        "que_numb" : "9",
+        "correcAns" : "realism",
+        "userAns" : "impressionism"
+    },
+    {
+        "databaseId" : "38",
+        "que_numb" : "10",
+        "correcAns" : "the ancient Egyptian writing material called papyrus",
+        "userAns" : "Petals"
+    }
+]
